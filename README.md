@@ -3,9 +3,9 @@
 > Export every *Melty Blood Actress Again Current Code* character action as an animated GIF — frame data decoded straight from `0002.p`, with all VFX composited.
 
 <p align="center">
-  <img src="docs/preview.webp" alt="C-ROA LA成功 — exported from MBAACC with VFX compositing">
+  <img src="docs/preview.webp" alt="C-Akiha Circuit Spark — exported from MBAACC with VFX compositing">
 </p>
-<p align="center"><sub>C-ROA <code>LA成功</code> — one exported action, VFX included (halved for preview)</sub></p>
+<p align="center"><sub>C-Akiha <code>サーキットスパーク</code> — one exported action, VFX included (lossless WebP: 256 alpha levels)</sub></p>
 
 A headless, offline renderer for MBAACC's animation data. No emulator, no screenshots: it reads
 the game archive, decodes the frame/判定 data, and re-composites each action exactly as the
