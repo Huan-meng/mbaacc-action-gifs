@@ -1,0 +1,22 @@
+# 生成产物
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# 不要把游戏数据提交上来
+*.p
+*.cg
+*.pal
+*.HA6
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
