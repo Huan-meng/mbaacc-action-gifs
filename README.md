@@ -3,7 +3,7 @@
 > Export every *Melty Blood Actress Again Current Code* character action as an animated GIF — frame data decoded straight from `0002.p`, with all VFX composited.
 
 <p align="center">
-  <img src="docs/preview.gif" alt="C-ROA LA成功 — exported from MBAACC with VFX compositing">
+  <img src="docs/preview.webp" alt="C-ROA LA成功 — exported from MBAACC with VFX compositing">
 </p>
 <p align="center"><sub>C-ROA <code>LA成功</code> — one exported action, VFX included (halved for preview)</sub></p>
 
