@@ -2,6 +2,11 @@
 
 > Export every *Melty Blood Actress Again Current Code* character action as an animated GIF — frame data decoded straight from `0002.p`, with all VFX composited.
 
+<p align="center">
+  <img src="docs/preview.png" alt="C-ROA Last Arc success animation, exported with VFX compositing" width="100%">
+</p>
+<p align="center"><sub>C-ROA <code>LA成功</code> — three frames from one exported action, VFX included</sub></p>
+
 A headless, offline renderer for MBAACC's animation data. No emulator, no screenshots: it reads
 the game archive, decodes the frame/判定 data, and re-composites each action exactly as the
 engine would — including the hit-effects, additive glow, scaling and rotation that the
